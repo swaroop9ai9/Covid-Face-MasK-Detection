@@ -2,7 +2,7 @@
 Face mask detection using local camera frame by frame and classifies the frame with mask or without mask with probability and boundary box.
 
 * Detect faces and determine whether they are wearing mask. *
-* The code is implemented for face mask detection models with five mainstream deep learning frameworks （PyTorch、TensorFlow、Keras、MXNet和caffe） open sourced, and the corresponding inference codes.*
+* The code is implemented for face mask detection models with five mainstream deep learning frameworks （PyTorch、TensorFlow、Keras、MXNetcaffe） open sourced, and the corresponding inference codes.*
 
 # Dataset.
 * We trained the face mask detection models with five mainstream deep learning frameworks （PyTorch、TensorFlow、Keras、MXNetcaffe） open sourced, and the corresponding inference codes.
