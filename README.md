@@ -6,7 +6,7 @@ Face mask detection using local camera frame by frame and classifies the frame w
 
 # Dataset.
 * We trained the face mask detection models with five mainstream deep learning frameworks （PyTorch、TensorFlow、Keras、MXNet和caffe） open sourced, and the corresponding inference codes.
-* We published 7959 images to train the models. The dataset is composed of WIDER Face (http://shuoyang1213.me/WIDERFACE/) and MAFA(http://www.escience.cn/people/geshiming/mafa.html).
+* We used 7959 images to train the models. The dataset is composed of WIDER Face (http://shuoyang1213.me/WIDERFACE/) and MAFA(http://www.escience.cn/people/geshiming/mafa.html).
 
 
 # Implementation.
