@@ -26,3 +26,12 @@ Face mask detection using local camera frame by frame and classifies the frame w
 * The other four frameworks running method is similar to pytorch, just replace pytorchwith tensorflow, keras,caffe，mxnet, if you want to use tensorflow, just run: *
  $ python tensorflow_infer.py  --img-path /path/to/your/img
  
+ # Output.
+ 
+ * With Out Mask with probability and bounding box *
+ ![](img/withoutmask.png)
+ 
+ * With Mask with probability and bounding box *
+ ![](img/withmask.jpg)
+ 
+ 
