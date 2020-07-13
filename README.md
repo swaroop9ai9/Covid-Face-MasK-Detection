@@ -32,6 +32,6 @@ Face mask detection using local camera frame by frame and classifies the frame w
  ![](img/withoutmask.png)
  
  * With Mask with probability and bounding box *
- ![](img/withmask.jpg)
+ ![](img/withmask.png)
  
  
