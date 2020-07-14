@@ -28,10 +28,10 @@ Face mask detection using local camera frame by frame and classifies the frame w
  
  # Output.
  
- * With Out Mask with probability and bounding box *
+ * With Out Mask with probability and bounding box 
  ![](images/withoutmask.png)
  
- * With Mask with probability and bounding box *
+ * With Mask with probability and bounding box 
  ![](images/withmask.png)
  
  
